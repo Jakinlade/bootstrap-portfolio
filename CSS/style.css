@@ -10,6 +10,10 @@
 
 /* General*/
 
+h1 {
+   
+}
+
 .section-title {
 
 }
@@ -30,7 +34,8 @@
 .jumbotron {
     background-image: url(../images/JJ-7-edit.jpg);
     background-size: cover;
-    height: 80vh;
+    height: 80vw;
+    width: 100vw;
     color: white;
 }
 
